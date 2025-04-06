@@ -15,9 +15,9 @@ Seja bem vinda(o) ao meu espaço e aqui vai uma breve descrição sobre mim:
 
 Realizei alguns projetos, para estudo através de cursos profissionalizantes, que você pode conferir aqui no meu perfil. Mas quero destacar alguns que gostei de fazer:
 
-- 🔍 `Projeto Job Finder`: Projeto de simulação de um site de busca de vagas, desenvolvido com Node.js, Express e Sequelize
-- ❌⭕ `Projeto Jogo da Velha`:  jogo da velha interativo desenvolvido em JavaScript, jogável também com IA
-- ❓ `quizz_js` : Quizz de programação com Vanilla JS, manipulação e eventos de DOM
+- 🔍 [`Projeto Job Finder`](https://github.com/GCBeatriz/Projeto-Job-Finder)
+- ❌⭕ [`Projeto Jogo da Velha`](https://github.com/GCBeatriz/Jogo-da-Velha)
+- ❓ [`quizz_js`](https://github.com/GCBeatriz/quizz_js)
 
 ---
 
