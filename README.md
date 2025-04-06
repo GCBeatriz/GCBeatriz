@@ -16,7 +16,7 @@ Seja bem vinda(o) ao meu espaço e aqui vai uma breve descrição sobre mim:
 Realizei alguns projetos, para estudo através de cursos profissionalizantes, que você pode conferir aqui no meu perfil. Mas quero destacar alguns que gostei de fazer:
 
 - 🔍 [`Projeto Job Finder`](https://github.com/GCBeatriz/Projeto-Job-Finder)
-- ❌⭕ [`Projeto Jogo da Velha`](https://github.com/GCBeatriz/Jogo-da-Velha)
+- ❌⭕ [`Projeto Jogo da Velha`](https://github.com/GCBeatriz/Projeto-jogo-da-velha)
 - ❓ [`quizz_js`](https://github.com/GCBeatriz/quizz_js)
 
 ---
